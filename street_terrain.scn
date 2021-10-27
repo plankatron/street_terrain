@@ -54,6 +54,21 @@
       "start_url": "https://webaverse.github.io/app/public/avatars/scillia.vrm",
       "dynamic": true
     },
+        {
+      "position": [
+        -26,
+        0,
+        -2
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://plankatron.github.io/scenes/homespace_v8_texta.glb",
+      "dynamic": true
+    },
     {
       "position": [
         0,
