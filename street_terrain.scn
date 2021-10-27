@@ -72,8 +72,8 @@
     {
       "position": [
         0,
-        0,
-        0
+        2000,
+        2000
       ],
       "physics": true,
       "start_url": "https://plankatron.github.io/street_terrain/street_terrain.glb",
