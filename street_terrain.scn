@@ -56,9 +56,9 @@
     },
         {
       "position": [
-        -26,
         0,
-        -2
+        2000,
+        0
       ],
       "quaternion": [
         0,
@@ -72,8 +72,8 @@
     {
       "position": [
         0,
-        2000,
-        2000
+        0,
+        0
       ],
       "physics": true,
       "start_url": "https://plankatron.github.io/street_terrain/street_terrain.glb",
